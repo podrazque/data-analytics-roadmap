@@ -11,3 +11,6 @@ Roadmap for learning data analytics
 - Executed my first SQL Server query in [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
 - Figured out how to properly create [aliases](https://youtu.be/G2GlntF9TKw) in zsh
 - Completed my [first check point](https://github.com/users/dannydore/projects/1/views/1) regarding my Data Analytics Roadmap
+
+### Day 2 - Wed May 11, 2022: Began DataCamp Data Scientist with Python Certification
+- Started the **Python Basics** section of [**Introduction to Python**](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
