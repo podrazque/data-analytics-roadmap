@@ -14,3 +14,6 @@ Roadmap for learning data analytics
 
 ### Day 2 - Wed May 11, 2022: Began DataCamp Data Scientist with Python Certification
 - Started the **Python Basics** section of [**Introduction to Python**](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
+
+### Day 3 - Thu May 12, 2022: Continued Working on "Introduction to Python"
+- Completed the **Python Basics** and the **Python Lists** sections of [**Introduction to Python**](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
