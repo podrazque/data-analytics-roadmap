@@ -17,3 +17,6 @@ Roadmap for learning data analytics
 
 ### Day 3 - Thu May 12, 2022: Continued Working on "Introduction to Python"
 - Completed the **Python Basics** and the **Python Lists** sections of [**Introduction to Python**](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
+
+### Day 4 - Fri May 13, 2022: Completed "Introduction to Python"
+- Completed the **Functions and Packages** and the **NumPy** sections of [**Introduction to Python**](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
