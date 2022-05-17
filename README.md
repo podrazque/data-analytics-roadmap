@@ -26,3 +26,6 @@ Roadmap for learning data analytics
 
 ### Day  6 - Sun May 15, 2022: Continued Working on "Intermediate Python"
 - Completed the **Dictionaries & Pandas** section of [**Intermediate Python**](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
+
+### Day  7 - Mon May 16, 2022: Finished Two More Sections of "Intermediate Python"
+- Finished the **Logic, Control Flow and Filtering** section and the **Loops** section of [**Intermediate Python**](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
