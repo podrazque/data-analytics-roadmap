@@ -31,4 +31,6 @@ Roadmap for learning data analytics
 - Finished the **Logic, Control Flow and Filtering** section and the **Loops** section of [**Intermediate Python**](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
 
 ### Day  8 - Tue May 17, 2022: Started Work Data Analysis Project
-- Started working on a project to analyze data regarding video conferencing platforms
+- Watched a [video](https://www.youtube.com/watch?v=Q7i6zxHVj2Q) from Alex the Analyst on the differences between MySQL, Postgresql, and Microsoft SQL Server
+- Watched a [video](https://www.youtube.com/watch?v=IfYN51kDHJ4) from Avery Smith on how he broke into the Data Science industry while working as an undergraduate lab technician and learning how to analyze the data he was recording in the lab
+- Started working on a project to analyze data regarding audio conferencing platforms
