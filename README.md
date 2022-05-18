@@ -29,3 +29,6 @@ Roadmap for learning data analytics
 
 ### Day  7 - Mon May 16, 2022: Finished Two More Sections of "Intermediate Python"
 - Finished the **Logic, Control Flow and Filtering** section and the **Loops** section of [**Intermediate Python**](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
+
+### Day  8 - Tue May 17, 2022: Started Work Data Analysis Project
+- Started working on a project to analyze data regarding video conferencing platforms
