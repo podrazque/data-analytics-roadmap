@@ -24,13 +24,19 @@ Roadmap for learning data analytics
 ### Day 5 - Sat May 14, 2022: Started "Intermediate Python"
 - Finished the **Matplotlib** section of [**Intermediate Python**](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
 
-### Day  6 - Sun May 15, 2022: Continued Working on "Intermediate Python"
+### Day 6 - Sun May 15, 2022: Continued Working on "Intermediate Python"
 - Completed the **Dictionaries & Pandas** section of [**Intermediate Python**](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
 
-### Day  7 - Mon May 16, 2022: Finished Two More Sections of "Intermediate Python"
+### Day 7 - Mon May 16, 2022: Finished Two More Sections of "Intermediate Python"
 - Finished the **Logic, Control Flow and Filtering** section and the **Loops** section of [**Intermediate Python**](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
 
-### Day  8 - Tue May 17, 2022: Started Work Data Analysis Project
+### Day 8 - Tue May 17, 2022: Started Work Data Analysis Project
 - Watched a [video](https://www.youtube.com/watch?v=Q7i6zxHVj2Q) from Alex the Analyst on the differences between MySQL, Postgresql, and Microsoft SQL Server
 - Watched a [video](https://www.youtube.com/watch?v=IfYN51kDHJ4) from Avery Smith on how he broke into the Data Science industry while working as an undergraduate lab technician and learning how to analyze the data he was recording in the lab
 - Started working on a project to analyze data regarding audio conferencing platforms
+
+### Day 9 - Wed May 18, 2022: Continued Working on Audio Conferencing Platforms Data Analysis Project
+- Preprocessed the data and completed the first question of the project on determining who the users are
+- Learned from someone on the [PuPPy](https://www.pspython.com/app/) Slack Channel that JupyterLab is the successor to Jupyter Notebook. Yesterday, I started using JupyterLab to work on that work project
+- [Discovered](https://stackoverflow.com/questions/49572579/pandas-drop-first-columns-after-csv-read) that while reading data from the csv and creating a pandas dataframe, you could use loc to extract only the columns you want from the csv
+- My friend informed me that when you are changing the same dataframe, make sure to use the *inplace* argument, as it avoids you making unnecessary copies of your data
