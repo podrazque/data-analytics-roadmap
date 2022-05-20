@@ -40,3 +40,7 @@ Roadmap for learning data analytics
 - Learned from someone on the [PuPPy](https://www.pspython.com/app/) Slack Channel that JupyterLab is the successor to Jupyter Notebook. Yesterday, I started using JupyterLab to work on that work project
 - [Discovered](https://stackoverflow.com/questions/49572579/pandas-drop-first-columns-after-csv-read) that while reading data from the csv and creating a pandas dataframe, you could use loc to extract only the columns you want from the csv
 - My friend informed me that when you are changing the same dataframe, make sure to use the *inplace* argument, as it avoids you making unnecessary copies of your data
+
+### Day 10 - Thu May 19, 2022: Finished First Part of a Work Data Analysis Project
+- Finished the first part of a work data analysis project
+- Learned how to use [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=US) and [WSL](https://docs.microsoft.com/en-us/windows/wsl/setup/environment)
