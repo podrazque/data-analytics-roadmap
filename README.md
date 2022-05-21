@@ -44,3 +44,6 @@ Roadmap for learning data analytics
 ### Day 10 - Thu May 19, 2022: Finished First Part of a Work Data Analysis Project
 - Finished the first part of a work data analysis project
 - Learned how to use [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=US) and [WSL](https://docs.microsoft.com/en-us/windows/wsl/setup/environment)
+
+### Day 11 - Fri May 20, 2022: Listened to a Podcast Episode on Data Literacy
+- Listened to episode 85 of DataFramed: [Building Data Literacy at Starbucks](https://open.spotify.com/episode/1AOAJOQnGKeFLo6luHAlA6?si=4a44e891f9f94665)
