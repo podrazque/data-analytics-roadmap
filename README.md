@@ -47,3 +47,6 @@ Roadmap for learning data analytics
 
 ### Day 11 - Fri May 20, 2022: Listened to a Podcast Episode on Data Literacy
 - Listened to episode 85 of DataFramed: [Building Data Literacy at Starbucks](https://open.spotify.com/episode/1AOAJOQnGKeFLo6luHAlA6?si=4a44e891f9f94665)
+
+### Day 12 - Sat May 21, 2022: Completed "Intermediate Python"
+- Finished **Case Study: Hacker Statistics** section of [**Intermediate Python**](https://app.datacamp.com/learn/courses/intermediate-python)
