@@ -50,3 +50,6 @@ Roadmap for learning data analytics
 
 ### Day 12 - Sat May 21, 2022: Completed "Intermediate Python"
 - Finished **Case Study: Hacker Statistics** section of [**Intermediate Python**](https://app.datacamp.com/learn/courses/intermediate-python)
+
+### Day 13 - Sun May 22, 2022: Watched a YouTube Video On Microsoft Excel
+- Watched [**How I use Excel as a Data Analyst**](https://youtu.be/lw6sPHH7twk)
