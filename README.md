@@ -53,3 +53,11 @@ Roadmap for learning data analytics
 
 ### Day 13 - Sun May 22, 2022: Watched a YouTube Video On Microsoft Excel
 - Watched [**How I use Excel as a Data Analyst**](https://youtu.be/lw6sPHH7twk)
+
+### Day 14 - Mon May 23, 2022: Checked Out LineaPy
+- Read about [**LineaPy**](https://github.com/LineaLabs/lineapy#quick-start) and implemented the **Quick Start** tutorial in JupyterLab
+- Educated myself on [Feature Engineering](https://en.wikipedia.org/wiki/Feature_engineering)
+- Learned more about [Lambda Functions](https://realpython.com/python-lambda/)
+- Discoverd a regression method that I was not familar with called [Elastic Net Regularization](https://en.wikipedia.org/wiki/Elastic_net_regularization)
+- Brushed up on what "[fitting](https://scikit-learn.org/stable/developers/develop.html#fitting)" a model is
+- Listened to [Episode #166](https://open.spotify.com/episode/2M4pZJXgdYCpfeCykZ23cQ?si=4f6d6dcf1a6f4b1e) of Chat With Traders about "The Trader's Guide for Learning to Code (with a Data Scientist)
