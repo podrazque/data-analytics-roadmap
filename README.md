@@ -60,4 +60,4 @@ Roadmap for learning data analytics
 - Learned more about [Lambda Functions](https://realpython.com/python-lambda/)
 - Discoverd a regression method that I was not familar with called [Elastic Net Regularization](https://en.wikipedia.org/wiki/Elastic_net_regularization)
 - Brushed up on what "[fitting](https://scikit-learn.org/stable/developers/develop.html#fitting)" a model is
-- Listened to [Episode #166](https://open.spotify.com/episode/2M4pZJXgdYCpfeCykZ23cQ?si=4f6d6dcf1a6f4b1e) of Chat With Traders about "The Trader's Guide for Learning to Code (with a Data Scientist)
+- Listened to [Episode #166](https://open.spotify.com/episode/2M4pZJXgdYCpfeCykZ23cQ?si=4f6d6dcf1a6f4b1e) of Chat With Traders about "The Trader's Guide for Learning to Code (with a Data Scientist)"
